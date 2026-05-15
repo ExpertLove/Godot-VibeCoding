@@ -1,4 +1,4 @@
-# Godot VibeCoding Skills
+# Godot VibeCoding
 
 **ИСТОРИЯ:**
 
